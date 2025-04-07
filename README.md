@@ -2,6 +2,8 @@
 
 Heaterfy is a machine learning-powered music recommendation system designed to enhance playlist curation by analyzing a playlist's "vibe" and generating 20 personalized track suggestions that match the style, mood, and genre diversity of the original list.
 
+by Aidan Mark (Akimbo), DJ 'Oscar De Leon' NUMP, Trevor ‘Track Whisperer’ Farquhar
+
 ---
 
 ## Key Features
